@@ -16,4 +16,4 @@ List available :
 If you want any forwader, open the issue and tell me what you want...
 
 If you want offert me something, it's here  
-![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/16.0.3/total)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-yellow.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-yellow.svg)](https://ko-fi.com/chronoss)
+![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/16.0.3/total)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss)
