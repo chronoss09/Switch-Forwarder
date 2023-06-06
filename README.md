@@ -5,7 +5,7 @@ Enjoy Switch Forwarder to access switch homebrews on Switch folder !
 # Work on last switch firmware : 16.0.3
 
 List available :
-* [NXMP](https://github.com/proconsule/nxmp) : Movie player
+* [NXMP](https://github.com/proconsule/nxmp) : Movie player (support most popular video format, HTTP,FTP,SFTP,Samba,NFS streaming and Enigma2 decoders)
 * [PPSSPP](https://www.ppsspp.org/legacybuilds) : PSP Emulator
 * [PPSSPP (GLES2)](https://www.ppsspp.org/legacybuilds) : PSP Emulator (more compatibility)
 * [TriPlayer](https://github.com/tallbl0nde/TriPlayer) : Music player (FLAC, MP3, WAV)
