@@ -17,7 +17,7 @@ List available :
 * [RetroArch](https://www.retroarch.com/) : RetroArch is a frontend for emulators, game engines and media players.
 * [Sonic 1/2/AIR](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) : Portage of Sonic '2013' game on Switch.
 * [Flycast](https://github.com/flyinghead/flycast) : Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast..
-* [pEMU](https://github.com/Cpasjuste/pemu) : pEMU: Portable Emulator from Cpajuste (PSNES, PNES, pFBA, PGEN)
+* [pEMU](https://github.com/Cpasjuste/pemu) : pEMU: Portable Emulator from Cpajuste (PSNES, PNES, pFBA, PGEN), added pFBA forwarder...
 * [NooDS](https://github.com/Hydr8gon/NooDS) : NooDS aims to be a fast and portable Nintendo DS emulator for Switch
 * more is coming...
 
