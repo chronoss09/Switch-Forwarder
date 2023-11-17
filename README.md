@@ -1,6 +1,6 @@
 # Switch Forwarder
 
-Enjoy Switch Forwarder to access switch homebrews on Switch folder !
+Enjoy Switch Forwarder to access switch homebrews on full access !
 
 # Work on last Switch firmware : 16.0.3
 
@@ -19,9 +19,10 @@ List available :
 * [Flycast](https://github.com/flyinghead/flycast) : Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast..
 * [pEMU](https://github.com/Cpasjuste/pemu) : pEMU: Portable Emulator from Cpajuste (PSNES, PNES, pFBA, PGEN), __added pFBA forwarder...__
 * [NooDS](https://github.com/Hydr8gon/NooDS) : NooDS aims to be a fast and portable Nintendo DS emulator for Switch
+* [wiliwili](https://github.com/xfangfang/wiliwili) : A Chinese youtube app
 * more is coming...
 
 If you want any forwader, open the issue and tell me what you want...
 
 If you want offert me something, it's here  
-![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/16.0.3/total)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss)
+![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/total) ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Switch-Forwarder/16.0.3/total)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) ![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
