@@ -2,7 +2,7 @@
 
 Enjoy Switch Forwarder to access switch homebrews on full access !
 
-# Work on last Switch firmware : 16.0.3 / 17.0
+# Work on last Switch firmware : 17.0
 
 List available :
 * [NXMP](https://github.com/proconsule/nxmp) : Movie player (most popular video supported, HTTP,FTP,SFTP,Samba,NFS streaming and more...)
