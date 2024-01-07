@@ -20,6 +20,7 @@ List available :
 * [pEMU](https://github.com/Cpasjuste/pemu) : pEMU: Portable Emulator from Cpajuste (PSNES, PNES, pFBA, PGEN), __added pFBA forwarder...__
 * [NooDS](https://github.com/Hydr8gon/NooDS) : NooDS aims to be a fast and portable Nintendo DS emulator for Switch
 * [wiliwili](https://github.com/xfangfang/wiliwili) : A Chinese youtube app
+* [SysDVR](https://github.com/exelix11/SysDVR) : This is a sysmodule that allows capturing the running game output to a pc via USB or network connection.
 * more is coming...
 
 If you want any forwader, open the issue and tell me what you want...
