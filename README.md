@@ -2,9 +2,11 @@
 
 Enjoy Switch Forwarder to access switch homebrews on full access !
 
-# Work on last Switch firmware : 17.0.1
+# Work on last Switch firmware : 18.1.0
 
 List available :
+* [Nazi Zombies: Portable](https://github.com/nzp-team/nzportable) : Nazi Zombies: Portable is a Call of Duty: Zombies de-make powered by various enhanced forks of the Quake engine, and has been in development __(new)__
+* [PPSSPP](https://www.ppsspp.org/legacybuilds) : PSP Emulator __(new forwarder)__
 * [NXMP](https://github.com/proconsule/nxmp) : Movie player (most popular video supported, HTTP,FTP,SFTP,Samba,NFS streaming and more...)
 * [PPSSPP](https://www.ppsspp.org/legacybuilds) : PSP Emulator
 * [PPSSPP (GLES2)](https://www.ppsspp.org/legacybuilds) : PSP Emulator (more compatibility)
